@@ -4,7 +4,7 @@ rvm:
 
 env:
   global:
-    - APP_NAME=fierce-plains-1014
+    - APP_NAME=sreyaheroku3
     - CI_REPORTS=shippable/testresults COVERAGE_REPORTS=shippable/codecoverage
     - secure: ZhSzMwBSAGudWqAmP/Ymb1uKMmwelnp0lumqDwzjSyqI05iWoX0noUfha2umEvjqB9r5akrgoN4Q/klkCDDNXXLNoMuDVjBtpzL3MRqR3GVujbqFZ7vLiGOstGsG+uMEYvMfesBBYX76YYz19uaMSfZxF9XJeytxFSBefNC2ToG1I5+IGTT/MqJ99Q13nqBtsbhzWx976Wa1tFCcuQ3aL1mFQ4YvdLrDb0oHfxWkAJy3M2aKOieDq5ds8ybcIgLQjfO0VRlBHvATNo0mw8nBi3e7vvLGPW5F1AeZU2e1zzKYquWntSZiZGb4bUJkQt7Q/79EAgVYgVPn4hgJmTUapQ== 
 
